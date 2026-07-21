@@ -1,10 +1,8 @@
 <div align="center">
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Arshiya19 Code" src="art/header-light.png" width="100%">
-</picture>
-
+  <img
+    src="https://raw.githubusercontent.com/arshiya19-code/arshiya19-code/main/art/header-light.png"
+    alt="Arshiya Banner"
+    width="100%">
 </div>
 
 <div align="center">

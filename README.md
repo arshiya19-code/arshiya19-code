@@ -1,9 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0812,50:FF69B4,100:FFC1E3&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFF0F8&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlignY=58&descSize=18&descColor=F8BBD0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F8,50:F8BBD0,100:FF69B4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=6B1339&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlignY=58&descSize=18&descColor=8A2251" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0812,50:FF69B4,100:FFC1E3&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFF0F8&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlignY=58&descSize=18&descColor=F8BBD0" />
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Arshiya19 Code" src="art/header-light.png" width="100%">
 </picture>
 
 </div>
